@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+
+  .head{
+    justify-content: space-between ;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .whole-body{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .big-image{
+    width: 1px;
+    margin-right: 27rem;
+    height: 20px;
+
+  }
+}
